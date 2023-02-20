@@ -1,4 +1,6 @@
-# SCHOLLEGE OVERVIEW
+# SCHOLLEGE 
+
+## OVERVIEW
 
 SCHOLLEGE is a mobile application designed for first-year students of Anna University and affiliated colleges. The app provides features such as syllabus reading, a chat room, updates, links to AU websites, CGPA calculation, result checking, profile page, and menu on the home page.
 
