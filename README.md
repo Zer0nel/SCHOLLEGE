@@ -1,2 +1,1 @@
-# SCHOLLEGE
-Mobile application designed to help first-year students of Anna University and affiliated colleges to get a clear understanding of subject concept through "Google solution challenge".
+SCHOLLEGE is a Flutter-Flow-based app designed for Anna University and affiliated college first-year students. With features such as syllabus reading, chat rooms, updates, and profile pages, SCHOLLEGE provides a user-friendly interface for students to communicate with peers and easily access syllabus information. The project was created for the Google Solution Challenge competition.
